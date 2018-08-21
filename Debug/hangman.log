@@ -1,0 +1,5 @@
+﻿  HangmanController.cpp
+c:\users\1\documents\visual studio 2017\projects\hangman\hangman\hangmancontroller.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\1\documents\visual studio 2017\projects\hangman\hangman\hangmancontroller.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  hangman.vcxproj -> C:\Users\1\documents\visual studio 2017\Projects\hangman\Debug\hangman.exe
+  hangman.vcxproj -> C:\Users\1\documents\visual studio 2017\Projects\hangman\Debug\hangman.pdb (Partial PDB)
